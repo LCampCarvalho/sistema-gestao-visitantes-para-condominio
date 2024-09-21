@@ -1,4 +1,4 @@
-# sistema-gestao-visitantes-para-condominio 🚀:smile:
+# sistema-gestao-visitantes-para-condominio 🚀🎉😀
 
 Este sistema de gestão de condomínio foi desenvolvido em Python, utilizando Tkinter para a interface gráfica e SQLite como banco de dados. 
 Ele permite gerenciar e monitorar visitantes e veículos, registrando suas entradas e saídas no condomínio e envia alertas em formato de e-mail.
@@ -9,8 +9,11 @@ Todos os registros são armazenados no banco de dados, com a opção de excluir 
 Funcionalidades principais:
 
 ✔ Registro de Visitantes: Cadastre visitantes com informações como nome, CPF, apartamento, data de visita e hora de entrada. Também é possível registrar a hora de saída.
+
 ✔ Registro de Veículos: Cadastre veículos informando placa, modelo, cor, apartamento e hora de entrada. A saída pode ser registrada posteriormente.
+
 ✔ Visualização de Visitantes e Veículos Presentes: Veja os visitantes e veículos que ainda estão no condomínio (ou seja, aqueles que ainda não tiveram sua saída registrada).
+
 ✔ Exclusão de Registros: Exclua registros de visitantes e veículos do sistema com base no CPF ou placa.
 
 ## Tecnologias utilizadas
@@ -25,6 +28,7 @@ Funcionalidades principais:
 O sistema é composto por duas partes principais:
 
 ✔ Back-end (Banco de Dados): O banco de dados utiliza SQLite para armazenar os registros de visitantes e veículos.
+
 ✔ Front-end (Interface Gráfica): A interface gráfica foi construída com Tkinter, oferecendo uma interação simples e intuitiva para o usuário.
 
 ## Arquivo principal
@@ -39,7 +43,7 @@ O sistema é composto por duas partes principais:
 
 ## Como Executar o Projeto:
 
-###Siga os passos abaixo para executar o sistema localmente:
+Siga os passos abaixo para executar o sistema localmente:
 
 1. Clone o repositório:
 
