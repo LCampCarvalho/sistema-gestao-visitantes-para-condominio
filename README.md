@@ -76,9 +76,26 @@ Observação:
 
 ## Screenshots
 
-Atualizar imagens
+Primeira tela do sistema:
 
-##Contribuições ❤️
+![Print tela inicial do sistema](screenshots/python_jh1fDArjoM.png)
+
+Gestão de veículos e visitantes, respectivamente:
+
+![Print tela inicial do sistema](screenshots/python_tWGEMSa6hZ.png)
+
+![Print tela inicial do sistema](screenshots/python_0ArhPIMEF5.png)
+
+Confirmações e alertas:
+
+![Print tela inicial do sistema](screenshots/python_BxjwTirGmN.png)
+![Print tela inicial do sistema](screenshots/python_cnEz6woqfY.png)
+![Print tela inicial do sistema](screenshots/python_hoHeYJGOze.png)
+![Print tela inicial do sistema](screenshots/python_WY2A4Ixf8Y.png)
+![Print tela inicial do sistema](screenshots/python_AOw8rcRHtp.png)
+![Print tela inicial do sistema](screenshots/python_zQcZCWVm27.png)
+
+## Contribuições ❤️
 
 Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou novos recursos, faça um fork deste repositório, 
 crie uma branch para a sua funcionalidade e abra um Pull Request.
